@@ -1,0 +1,8 @@
+C:\Users\Adolfo\source\repos\SistemaBancoByteCode\SistemaBancoByteCode\bin\Debug\SistemaBancoByteCode.exe.config
+C:\Users\Adolfo\source\repos\SistemaBancoByteCode\SistemaBancoByteCode\bin\Debug\SistemaBancoByteCode.exe
+C:\Users\Adolfo\source\repos\SistemaBancoByteCode\SistemaBancoByteCode\bin\Debug\SistemaBancoByteCode.pdb
+C:\Users\Adolfo\source\repos\SistemaBancoByteCode\SistemaBancoByteCode\obj\Debug\SistemaBancoByteCode.csproj.AssemblyReference.cache
+C:\Users\Adolfo\source\repos\SistemaBancoByteCode\SistemaBancoByteCode\obj\Debug\SistemaBancoByteCode.csproj.SuggestedBindingRedirects.cache
+C:\Users\Adolfo\source\repos\SistemaBancoByteCode\SistemaBancoByteCode\obj\Debug\SistemaBancoByteCode.csproj.CoreCompileInputs.cache
+C:\Users\Adolfo\source\repos\SistemaBancoByteCode\SistemaBancoByteCode\obj\Debug\SistemaBancoByteCode.exe
+C:\Users\Adolfo\source\repos\SistemaBancoByteCode\SistemaBancoByteCode\obj\Debug\SistemaBancoByteCode.pdb
